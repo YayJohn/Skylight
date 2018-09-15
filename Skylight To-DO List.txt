@@ -1,0 +1,18 @@
+Now:
+Sliding
+Add a grappling hook (swing-like)
+Add a grappling hook (pulling yourself to a point)
+Make a Score (and tricks) system
+Make a delay before you fall down from the wall when wall jumping
+
+After:
+Make a PROPER swinging system
+Give bonus score points if u do a 720 or a 1080 etc
+make it that when u spin it shows u that you're getting points but if u dont succeed the spin then the points will get lost
+Add a settings menu which includes, resolution, fps cap and fov slider
+
+To Fix:
+//Make Jump GetKeyDown
+
+Maybe:
+Dashing
